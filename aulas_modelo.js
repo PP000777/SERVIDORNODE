@@ -19,3 +19,7 @@ const listarAulas = () => {
     }
   };
   
+  module.exports = {
+    listarAulas,
+    atualizarAulas
+  };

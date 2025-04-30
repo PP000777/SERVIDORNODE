@@ -1,8 +1,15 @@
 [
-{
+  {
     "id": 1,
     "professor": "Ramon",
     "materia": "Desenvolvimento de sistemas",
     "turma": "3B"
-}
+  },
+  [
+    {
+      "professor": "Ramon",
+      "materia": "Desenvolvimento de sistemas",
+      "turma": "3A"
+    }
+  ]
 ]
